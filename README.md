@@ -6,3 +6,4 @@ Swift, SwiftUI, UIKit, Vapor
 2. Update mechanism: https://fatbobman.com/en/posts/understanding-swiftui-view-update-mechanism/
 3. ZStack vs (Overlay and Background): https://fatbobman.com/en/posts/in-depth-exploration-of-overlay-and-background-modifiers-in-swiftui/
 4. Pagination via AsyncStream: https://medium.com/@e.nazarov/swiftui-pagination-with-structured-concurrency-51a97c683005
+5. Shift towards resizeable era: https://fatbobman.com/en/posts/from-size-class-to-available-space/ 
